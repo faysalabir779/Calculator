@@ -10,7 +10,6 @@ A simple calculator app built for Android using Kotlin.
 - Dependencies
 - Usage
 - FAQ
-- License
 
 ## Introduction
 This Android application provides a basic calculator functionality allowing users to perform arithmetic operations such as addition, subtraction, multiplication, and division.
